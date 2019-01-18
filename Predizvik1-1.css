@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+font-family: arial;
+}
+/*Div1*/
+#div1 i{
+    padding: 10px 480px 10px 200px;
+}
+#div1 a{
+    display: inline-block;
+    padding: 30px 10px 40px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+#div1 img{
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 3%
+}
+#div1 a:hover{
+    color: rgb(185, 172, 172);
+}
+/*Div2*/
+#div2 div{
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+#div2 i{
+    padding-top: 25px;
+}
+#div2 div:first-child{
+    background: rgb(219, 219, 219);
+}
+.lightblue{
+    background: rgb(191, 214, 223);
+}
+.about{
+    background:rgb(159, 174, 193);
+}
+.ipad{ 
+    background:rgb(189, 185, 171);
+}
+.orange{
+    background: rgb(250, 165, 138);
+}
+.iphone{
+    background: rgb(156, 224, 210);   
+}
+.blue{
+    background: rgb(100, 141, 172);
+}
+/*Div3*/
+#div3{
+clear: both;
+}
+.first{height: 308px;
+}
+.second{height:280px;
+}
+.third{height: 280px;
+}
+#div3 div > div{
+    width: 50%;
+  float: left;
+   height: 100%;
+   text-align: center;
+   color: white;
+} 
+p{
+    text-align: justify;
+    padding:30px 25px 0 25px;
+    font-size: 17px;
+    color: white;
+}
+ #div3 div > div img{
+    display: block;
+    width: 35%;
+    margin: 0 auto;
+    padding-top: 45px;
+    padding-bottom: 15px;
+}
+.h2{font-size: 30px;
+}
+/*Div4*/
+#div4{
+    display: block;
+    height: 180px;
+}
+#div4 div{
+    width: 33.33%;
+    text-align: center;
+    height: 100%;
+    float: left;
+}
+/*Div5*/
+#div5{
+    display:block;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 1px solid white;
+}
+#div5 a{
+    display: inline-block;
+    width: 30px;
+    padding:85px 60px;
+    color: white;
+    opacity: 0.6;
+}
+/*Div6*/
+#div6{
+    background: rgb(87, 73, 90);
+    display: inline-block;
+    width: 100%;
+}
+.lastP{
+text-align: center;
+padding: 0;
+}
+
+
+
+
+
+
+
